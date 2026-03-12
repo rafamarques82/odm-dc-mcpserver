@@ -1,0 +1,60 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Watson and Orchestrate files (excluded - only MCP server)
+watson_web_ui.py
+watson_mcp_client.py
+watson_orchestrate_adapter.py
+watson_orchestrate_local.py
+watson_orchestrate_ui.py
+watsonaix/
+chat.py
+chat.bat
+chat.sh
+start_orchestrate.bat
+start_orchestrate.sh
+
+# Local data files
+*.log
+*.sqlite
+*.db
+
+# Temporary files
+*.tmp
+*.bak

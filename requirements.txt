@@ -1,0 +1,23 @@
+# MCP Server Dependencies
+fastmcp>=0.1.0
+requests>=2.31.0
+
+# Watson AI Dependencies
+ibm-watsonx-ai>=0.1.0
+ibm-watson>=7.0.0
+
+# Web Interface Dependencies
+streamlit>=1.28.0
+
+# Watson Orchestrate Integration
+flask>=3.0.0
+flask-cors>=4.0.0
+
+# Document Processing Dependencies
+PyPDF2>=3.0.0
+python-docx>=1.0.0
+pandas>=2.0.0
+openpyxl>=3.1.0
+
+# Utilities
+python-dotenv>=1.0.0
