@@ -50,6 +50,9 @@ chat.sh
 start_orchestrate.bat
 start_orchestrate.sh
 
+# Funcionando folder (backup/old versions)
+funcionando/
+
 # Local data files
 *.log
 *.sqlite
